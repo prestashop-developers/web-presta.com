@@ -1,0 +1,368 @@
+Uri: https://cdn.commoninja.com/sdk/latest/commonninja.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\sdk\latest\commonninja.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Work+Sans:wght@500&family=Open+Sans:wght@400&display=swap
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v19/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXNig.ttf
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\s\worksans\v19\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXNig.ttf
+Content Type: font/ttf
+
+Uri: https://images.unsplash.com/flagged/photo-1550579095-3c756f08a933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwxNnx8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\flagged\photo-1550579095-3c756f08a933
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjI5NjF8MHwxfHNlYXJjaHwxMXx8cG9ydHJhaXR8ZW58MHx8fHwxNjgwNzMwMjQ2&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1438761681033-6461ffad8d80
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1466096115517-bceecbfb6fde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwxNXx8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1466096115517-bceecbfb6fde
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1501587370732-8fdda655aace?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwxOXx8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1501587370732-8fdda655aace
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1504711331083-9c895941bf81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHw5fHxpbmZvfGVufDB8fHx8MTY5NTcxMTUyMHww&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1504711331083-9c895941bf81
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1504711434969-e33886168f5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHw2fHxpbmZvfGVufDB8fHx8MTY5NTcxMTUyMHww&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1504711434969-e33886168f5c
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjI5NjF8MHwxfHNlYXJjaHwyfHxwb3J0cmFpdHxlbnwwfHx8fDE2ODA3MzAyNDY&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1506794778202-cad84cf45f1d
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1532256253150-2f0e4e883a74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHw1fHxpbmZvfGVufDB8fHx8MTY5NTcxMTUyMHww&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1532256253150-2f0e4e883a74
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1560169573-5ff6f7f35fe4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwzfHxpbmZvfGVufDB8fHx8MTY5NTcxMTUyMHww&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1560169573-5ff6f7f35fe4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1586281380117-5a60ae2050cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwyOHx8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1586281380117-5a60ae2050cc
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1586281380901-171d7fd8b6db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwxMXx8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1586281380901-171d7fd8b6db
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1596524430615-b46475ddff6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwyM3x8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1596524430615-b46475ddff6e
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1599530548461-89c6d97497b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwyMHx8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1599530548461-89c6d97497b4
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1599597435338-adbf0f27b5b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwxfHxpbmZvfGVufDB8fHx8MTY5NTcxMTUyMHww&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1599597435338-adbf0f27b5b0
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1609435404855-ad5afcf4b39f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwxM3x8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1609435404855-ad5afcf4b39f
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1614204424926-196a80bf0be8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjI5NjF8MHwxfHNlYXJjaHwzM3x8cG9ydHJhaXR8ZW58MHx8fHwxNjgwNzMwMjU2&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1614204424926-196a80bf0be8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1617049037028-d4746ed5e6bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwxNHx8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1617049037028-d4746ed5e6bc
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1618588590706-bac3c25b3d41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHw0fHxpbmZvfGVufDB8fHx8MTY5NTcxMTUyMHww&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1618588590706-bac3c25b3d41
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1633812510230-3fea2fb08121?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwyN3x8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1633812510230-3fea2fb08121
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1633848827861-c01f5142d73b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwyNXx8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1633848827861-c01f5142d73b
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1636921453736-a97f85c2c8b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHw3fHxpbmZvfGVufDB8fHx8MTY5NTcxMTUyMHww&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\photo-1636921453736-a97f85c2c8b9
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/uploads/1413222992504f1b734a6/1928e537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwyNnx8aW5mb3xlbnwwfHx8fDE2OTU3MTE1MjB8MA&ixlib=rb-4.0.3&q=80&w=1080
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\uploads\1413222992504f1b734a6\1928e537
+Content Type: image/jpeg
+
+Uri: https://webpresta.mydurable.com/
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\index-1.htm
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/?pt=NjUxMjgxYmQzMDU0NmE4YmU5ODJhZTk0OjE2OTU3MTU5MzguMTU2OnByZXZpZXc=
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\index.htm
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/about
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\about.html
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/blog
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\blog.html
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/l/email-protection
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://webpresta.mydurable.com/contact
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\contact.html
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/faq
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\faq.html
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/favicon.ico
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://webpresta.mydurable.com/gallery
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\gallery.html
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/privacy-policy
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/services
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\services.html
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/team
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\team.html
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/testimonials
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\testimonials.html
+Content Type: text/html
+
+Uri: https://webpresta.mydurable.com/_next/static/163pKCxzEHSEkBCApYvgX/_buildManifest.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\163pKCxzEHSEkBCApYvgX\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/163pKCxzEHSEkBCApYvgX/_ssgManifest.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\163pKCxzEHSEkBCApYvgX\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/1591.cfbc9ce1f51691c4.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\1591.cfbc9ce1f51691c4.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/165.055379807c10117b.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\165.055379807c10117b.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/1940.9e5482eb02300a59.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\1940.9e5482eb02300a59.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/1b8dab7b-31f3d25e51dea378.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\1b8dab7b-31f3d25e51dea378.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/2258.f7e12eb45ce35260.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\2258.f7e12eb45ce35260.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/228771e0-1847fb34b4287f6e.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\228771e0-1847fb34b4287f6e.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/2448-2e43548d4e6ac378.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\2448-2e43548d4e6ac378.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/258.e7b92a85a9b27b0a.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\258.e7b92a85a9b27b0a.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/2674-f0a279b51e6bec3c.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\2674-f0a279b51e6bec3c.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/2686.a9d21c57379ebae0.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\2686.a9d21c57379ebae0.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/3175.ecb68d9aff0d77b0.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\3175.ecb68d9aff0d77b0.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/3752.24bee15cbb550d8d.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\3752.24bee15cbb550d8d.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/5290-22957b1dbef8ad1d.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\5290-22957b1dbef8ad1d.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/5675-77ad25b826aeb078.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\5675-77ad25b826aeb078.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/6166.174da8941481f674.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\6166.174da8941481f674.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/6250.7511d90481fdd26c.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\6250.7511d90481fdd26c.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/6383.f87a2c6ed7979bb1.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\6383.f87a2c6ed7979bb1.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/65291039-4f3f6955e28c2474.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\65291039-4f3f6955e28c2474.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/6675.85a801164b5f9829.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\6675.85a801164b5f9829.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/6725-8beec45eed4c64de.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\6725-8beec45eed4c64de.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/6848.70d2207d3ed8997e.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\6848.70d2207d3ed8997e.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/7100.85fd1768e20415e6.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\7100.85fd1768e20415e6.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/7452-c2c52fa0b95b5d02.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\7452-c2c52fa0b95b5d02.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/8010.0e8225b98a213ef1.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\8010.0e8225b98a213ef1.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/8037.c44e388715ccfa1f.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\8037.c44e388715ccfa1f.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/8077.682f1778e33ebf98.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\8077.682f1778e33ebf98.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/866.688cd1461c625f0e.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\866.688cd1461c625f0e.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/8692-7479a2f42fa5f797.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\8692-7479a2f42fa5f797.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/9906-ff17c4cd8b2e0979.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\9906-ff17c4cd8b2e0979.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/c9184924-889d510402c9534a.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\c9184924-889d510402c9534a.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/framework-93b89dc25365d5c7.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\framework-93b89dc25365d5c7.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/main-f800f5ccdddb9df9.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\main-f800f5ccdddb9df9.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/pages/[[...slug]]-b48cc25634a07aa1.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\pages\[[...slug]]-b48cc25634a07aa1.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/pages/blog-3a4a67c04a22d3de.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\pages\blog-3a4a67c04a22d3de.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/pages/_app-d9a0fa173a687432.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\pages\_app-d9a0fa173a687432.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/chunks/webpack-57ae4ea5ef50e6e7.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\chunks\webpack-57ae4ea5ef50e6e7.js
+Content Type: application/javascript
+
+Uri: https://webpresta.mydurable.com/_next/static/css/b44e452a9b15cc82.css
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\css\b44e452a9b15cc82.css
+Content Type: text/css
+
+Uri: https://webpresta.mydurable.com/_next/static/css/bbe568d2fd488cf0.css
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\css\bbe568d2fd488cf0.css
+Content Type: text/css
+
