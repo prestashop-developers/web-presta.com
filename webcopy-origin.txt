@@ -202,12 +202,12 @@ Uri: https://webpresta.mydurable.com/testimonials
 File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\testimonials.html
 Content Type: text/html
 
-Uri: https://webpresta.mydurable.com/next/static/163pKCxzEHSEkBCApYvgX/_buildManifest.js
-File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\163pKCxzEHSEkBCApYvgX\_buildManifest.js
+Uri: https://webpresta.mydurable.com/next/static/163pKCxzEHSEkBCApYvgX/buildManifest.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\163pKCxzEHSEkBCApYvgX\buildManifest.js
 Content Type: application/javascript
 
-Uri: https://webpresta.mydurable.com/next/static/163pKCxzEHSEkBCApYvgX/_ssgManifest.js
-File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\163pKCxzEHSEkBCApYvgX\_ssgManifest.js
+Uri: https://webpresta.mydurable.com/next/static/163pKCxzEHSEkBCApYvgX/ssgManifest.js
+File Name: C:\Users\APARTNER.PRO\Downloads\webcopy\webpresta.mydurable.com\_next\static\163pKCxzEHSEkBCApYvgX\ssgManifest.js
 Content Type: application/javascript
 
 Uri: https://webpresta.mydurable.com/next/static/chunks/1591.cfbc9ce1f51691c4.js
