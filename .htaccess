@@ -1,0 +1,15 @@
+# Enable error logging
+# ErrorLog error.log
+
+# Handle all types of errors by redirecting to a custom error page
+#ErrorDocument 400 /error-page.php
+#ErrorDocument 401 /error-page.php
+#ErrorDocument 403 /error-page.php
+#ErrorDocument 404 /error-page.php
+#ErrorDocument 500 /error-page.php
+
+ErrorDocument 400 /
+ErrorDocument 401 /
+ErrorDocument 403 /
+ErrorDocument 404 /
+ErrorDocument 500 /
