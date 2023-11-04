@@ -1,2 +1,2 @@
-# web-presta.com
-web-presta.com
+# teampresta.com
+teampresta.com Team Prestashop
